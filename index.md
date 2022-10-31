@@ -162,26 +162,7 @@ Here is the change:
 
 ![Image](lab 3 ss 11.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Image](page break 1.png)
 
 **Lab Report 3**
 
